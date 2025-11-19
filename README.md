@@ -19,16 +19,6 @@ A clean, reviewer-friendly Hangman game built with React.
 - Attractive UI with motion via CSS transitions and animations
 - Readily extensible word/topic data in `src/data/words.js`
 
-## Install and run locally
-
-1. Clone the repo:
-   - Replace the contents of `repo.txt` with my GitHub repo URL when I push.
-
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
 ## Inspiration
 
 I drew inspiration from the Geeks for Geeks tutorials on building a HangMan project
