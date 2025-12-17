@@ -1,6 +1,6 @@
 # Hangman Capstone
 
-A clean, Hangman game built with React.
+A clean, reviewer-friendly Hangman game built with React.
 
 ## Overview
 
