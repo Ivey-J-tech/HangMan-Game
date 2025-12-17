@@ -4,7 +4,7 @@ import { pickRandomFromTopic, maskedAnswer } from './utils/gameHelpers.js';
 import Header from './components/Header.jsx';
 import TopicSelector from './components/TopicSelector.jsx';
 import QuestionCard from './components/QuestionCard.jsx';
-import Keyboard from './components/Keyboard.jsx';
+import Keyboard from './components/KeyBoard.jsx';
 import Hangman from './components/Hangman.jsx';
 import HelpModal from './components/HelpModal.jsx';
 import Footer from './components/Footer.jsx';
